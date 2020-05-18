@@ -1,6 +1,6 @@
 {
   "name": "@franleplant/socketio-hooks",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Package containing React Hooks for Socket IO",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -46,6 +46,5 @@
   },
   "peerDependencies": {
     "react": ">16.8.0"
-
   }
 }
