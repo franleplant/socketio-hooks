@@ -1,6 +1,6 @@
 {
   "name": "@franleplant/socketio-hooks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Package containing React Hooks for Socket IO",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
