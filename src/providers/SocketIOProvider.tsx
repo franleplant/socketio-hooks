@@ -16,7 +16,7 @@ interface IProps {
   children: React.ReactNode;
 }
 
-export default function SocketProvider(props: IProps): React.ReactNode {
+export default function SocketProvider(props: IProps) {
   const { children, namespaces, url, connectionOptions } = props;
 
   const [sockets, setSockets] = useState<ISockets>({});
